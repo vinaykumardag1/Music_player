@@ -1,7 +1,7 @@
 .Container{
     display: flex;
     justify-content: center;
-   
+    background:radial-gradient(circle,#faf7c6,#fab7ff);
 }
 .card-head img{
     width: 80%;
